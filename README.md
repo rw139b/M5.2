@@ -27,3 +27,22 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+## Questions
+
+Color was Green/Green/black, I fixed colors and made it readable
+
+Images were fixed by adding alt text
+
+For audio I included a transcript and added a download for older browsers
+
+I added a label element with the aria-label attribute for screen readers.
+
+To make sure each input field is correctly associated with its label I used the for attribute in the 
+label that matches the id of the corresponding input, this will create an unambiguous connection.
+
+I could not figure out the show/hide keyboard
+
+made the table more readable
+
+two more ideas for accessablity would be making the text larger, and adding text to speech for 
+image descriptions.
